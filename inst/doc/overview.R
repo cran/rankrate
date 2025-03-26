@@ -12,9 +12,6 @@ knitr::opts_chunk$set(
 #  # install.packages("devtools") # uncomment if you haven't installed 'devtools' before
 #  devtools::install_github("pearce790/rankrate")
 
-## ----echo=FALSE,results='hide',message=FALSE,warning=FALSE--------------------
-devtools::install_github("pearce790/rankrate")
-
 ## -----------------------------------------------------------------------------
 library(rankrate)
 

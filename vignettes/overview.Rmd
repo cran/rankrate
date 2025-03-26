@@ -30,11 +30,12 @@ devtools::install_github("pearce790/rankrate")
 ```
 
 After installation, load the package with the following code:
-```{r echo=FALSE,results='hide',message=FALSE,warning=FALSE}
-devtools::install_github("pearce790/rankrate")
-```
 ```{r}
 library(rankrate)
 ```
+
+# Funding
+
+This project was supported by the National Science Foundation under Grant No. 2019901.
 
 # References
